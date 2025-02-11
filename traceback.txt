@@ -1,0 +1,24 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 961, in script
+    s "Tu mérites même pas de me côtoyer pour avoir posé cette question : à 1000% je prends les chevaliers."
+ValueError: unsupported format character 'j' (0x6a) at index 75
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 961, in script
+    s "Tu mérites même pas de me côtoyer pour avoir posé cette question : à 1000% je prends les chevaliers."
+  File "C:\Users\ELEVE1\Downloads\RenPy\renpy-8.2.1-sdk\renpy\ast.py", line 2557, in execute
+    Say.execute(self)
+  File "C:\Users\ELEVE1\Downloads\RenPy\renpy-8.2.1-sdk\renpy\ast.py", line 615, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "C:\Users\ELEVE1\Downloads\RenPy\renpy-8.2.1-sdk\renpy\exports.py", line 1482, in say
+    what = what % tag_quoting_dict
+ValueError: unsupported format character 'j' (0x6a) at index 75
+
+Windows-10-10.0.22000 AMD64
+Ren'Py 8.2.1.24030407
+Nsi projet T3 1.0
+Thu May 23 09:26:56 2024

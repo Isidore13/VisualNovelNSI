@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1955: Line is indented, but the preceding jump statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    def per_interact( self ):
+    ^
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Thu May 23 09:16:59 2024

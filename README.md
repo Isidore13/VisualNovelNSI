@@ -1,4 +1,4 @@
-# VisualNovel
+# Le Jeu
 
 ## Contexte de réalisation
 Ce projet est le dernier projet que j'ai réaliser lors de mes années de lycée, c'est-à-dire en terminale. Ma camarade et moi afin de nous démarqué avons décider de réaliser un jeu vidéo.

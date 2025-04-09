@@ -21,7 +21,7 @@ Nous préférons maîtriser au maximum les langages que nous connaissons plutôt
 
 
 
-##Quel genre de jeu ?
+## Quel genre de jeu ?
 
 Pour le choix du scénario, un brainstorming s’est imposé : les visuals novels sont connus pour leur jeu de romance ou les différents choix du joueur lui permet de se rapprocher ou de s’éloigner de personnage : des [dating simulator](https://fr.wikipedia.org/wiki/Jeu_de_drague).
 
